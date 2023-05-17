@@ -1,4 +1,6 @@
 {
+    "name": "eshop/composer",
+    "description": "composer",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "stable",
